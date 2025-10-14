@@ -1,1 +1,1 @@
-# GG22bond-PRMW-Net
+# PRMW-Net
