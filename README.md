@@ -10,3 +10,6 @@
 ### Dataset
 
 From this [download link (Github)](https://github.com/DengPingFan/Polyp-PVT)
+
+### Weight
+Download PVT pre-weight from this [link (Google Drive)](https://drive.google.com/drive/folders/1oltE29nU815rH4Zo3_al7S5TmeVhESpu?usp=drive_link)
