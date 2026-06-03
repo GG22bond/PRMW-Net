@@ -1,4 +1,4 @@
-## PRMWNet：A High-Accuracy Context-Enhanced Polyp Segmentation Network via RWKV and Transformer for Complex Scenarios
+## Context-Enhanced Hybrid Sequence Modelling for Robust Colonoscopic Polyp Segmentation in Complex Scenarios
 
 ![framework](./imgs/network.jpg)
 
