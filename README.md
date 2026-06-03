@@ -11,6 +11,33 @@
 
 From this [download link (Github)](https://github.com/DengPingFan/Polyp-PVT)
 
+````
+dataset/
+├── TrainDataset/
+│   ├── images/
+│   └── masks/
+│
+└── TestDataset/
+    ├── CVC-300/
+    │   ├── images/
+    │   └── masks/
+    ├── CVC-ClinicDB/
+    │   ├── images/
+    │   └── masks/
+    ├── CVC-ColonDB/
+    │   ├── images/
+    │   └── masks/
+    ├── ETIS-LaribPolypDB/
+    │   ├── images/
+    │   └── masks/
+    ├── Kvasir/
+    │   ├── images/
+    │   └── masks/
+    └── test
+        ├── images/
+        └── masks/
+````
+
 ### Weight
 Pre-weight from this [link (Google Drive)](https://drive.google.com/drive/folders/1oltE29nU815rH4Zo3_al7S5TmeVhESpu?usp=drive_link)
 
